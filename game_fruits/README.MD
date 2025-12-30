@@ -7,6 +7,6 @@
 
 ##  Running game
 
-![screenshot](running_game.jpg)
+![screenshot](run.png)
 
 
