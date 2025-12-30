@@ -1,3 +1,5 @@
+# This game in python use pygame package 
+
 
 
 ![screenshot](main.jpg)
